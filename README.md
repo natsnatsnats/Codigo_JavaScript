@@ -2,11 +2,17 @@
 
 ### Declaração de Variaveis
 
+~~~javascript
 var: Permite redeclarar a variável e alterar seu valor a qualquer momento.
+~~~
 
+~~~javascript
 let: Permite declarar a variável apenas uma vez, mas você pode modificar seu valor depois.
+~~~
 
+~~~javascript
 const: Não permite redeclarar a variável nem mudar seu valor após a declaração.
+~~~
 
 ### Tipos de Variaveis
 
