@@ -1,6 +1,4 @@
-# Codigo_JavaScript
-
-## Conteúdo Técnico
+# Conteúdo JavaScript
 
 ### Declaração de Variaveis
 
