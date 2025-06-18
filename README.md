@@ -367,12 +367,3 @@ function inverterString(str) {
 console.log(inverterString(str));
 ~~~
 
-## Atividades Desenvolvidas 
-
-Vídeo Sobre Variáveis https://drive.google.com/file/d/1E96mEjGoIMgXJLhCbbwK_3HNau0fomNO/view?usp=drive_link
-
-Atividades no Codepen
-https://codepen.io/collection/ZMdeBV
-
-
-
